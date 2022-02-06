@@ -1,0 +1,107 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Grenze+Gotisch&family=Lato:wght@400;700;900&family=Monoton&family=Press+Start+2P&family=Syne+Tactile&display=swap');
+.wrapper{
+    min-height: 100%;
+	overflow: hidden;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #1E212C;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+img{
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+.block{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+.block-2{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+.block-3{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+h2{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 130px;
+}
+.block-4{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+ol{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    margin-top: 10px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    margin-left: 140px;
+}
+.block-5{
+    font-family:'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
